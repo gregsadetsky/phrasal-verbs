@@ -15,7 +15,3 @@
 - phrasal verbs collected from [Wiktionary](https://en.wiktionary.org/w/index.php?title=Category:English_phrasal_verbs)
 - reddit comments 2005-2019 from the [public BigQuery dataset](https://cloud.google.com/bigquery/public-data)
 -- look for `fh-bigquery.reddit_comments`
-
-## TODO
-
-- provide cleaned up viz code
