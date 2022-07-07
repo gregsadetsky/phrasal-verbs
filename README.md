@@ -9,6 +9,7 @@
 ## how to recreate
 
 - run [bigquery.sql](bigquery.sql) on BigQuery. it will process ~1Tb in ~1.5 minutes (which is completely mindblowing)
+- save the result to `data.csv`, then run `viz.py` -- assumes python3, pandas, matplotlib
 
 ## data sources
 
